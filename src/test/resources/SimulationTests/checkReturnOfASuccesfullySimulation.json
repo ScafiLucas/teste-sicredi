@@ -1,0 +1,12 @@
+{
+  "uri": "/api/v1/simulacoes",
+  "body": {
+            "cpf": 17225094068,
+            "nome": "Teste Siricred",
+            "email": "teste@siricred.com.br",
+            "valor": 10000,
+            "parcelas": 3,
+            "seguro": false
+          },
+  "statusCode": 201
+}

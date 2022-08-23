@@ -1,0 +1,15 @@
+{
+  "uri": "/api/v1/simulacoes",
+  "body": {
+            "cpf": 58339949004,
+            "nome": "Teste Siricred",
+            "email": "teste@siricred.com.br",
+            "valor": 10000,
+            "parcelas": 3,
+            "seguro": false
+          },
+  "response": {
+            "mensagem": "CPF duplicado"
+            },
+  "statusCode": 400
+}
